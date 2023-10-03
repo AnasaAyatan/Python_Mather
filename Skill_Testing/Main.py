@@ -55,6 +55,6 @@ def main():
     result = int(calculate_sin(num))
     
     # Display the final result
-    print("The answer is :L: ", result)
+    print("The answer is xd: ", result)
 
 main()
